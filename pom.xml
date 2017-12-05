@@ -17,6 +17,7 @@
         <module>dpm-websocket</module>
         <module>dpm-other</module>
         <module>dpm-socket</module>
+        <module>dpm-test01</module>
     </modules>
 
     <dependencyManagement>
